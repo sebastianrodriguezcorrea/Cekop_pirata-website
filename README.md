@@ -1,2 +1,2 @@
 # cekop_pirata-website
- web page
+ web pages
